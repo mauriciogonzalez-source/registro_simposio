@@ -5,7 +5,7 @@
         <!-- Encabezado -->
         <div class="header text-center">
             <div class="header-content">
-                <h1 class="display-5 fw-bold">PROGRAMA DE CONFERENCIAS Y TALLERES ALIMENTOS</h1>
+                <h1 class="display-5 fw-bold">Registro 3er Simposio "Dia Mundial de la Alimentación</h1>
                 <p class="lead fs-4">Universidad Tecnológica de Tehuacán</p>
                 <p class="mb-0 fs-5">23 y 24 de Octubre</p>
                 <p class="mt-2 fs-6">"Mano de la mano por unos alimentos y un futuro mejores"</p>
