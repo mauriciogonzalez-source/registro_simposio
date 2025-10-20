@@ -1,3 +1,4 @@
+registro_simposio
 <!DOCTYPE html>
 <html lang="es">
 <head>
